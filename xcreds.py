@@ -1,3 +1,7 @@
+# XCREDS - by spec
+# As this program is for demonstration purposes,
+# I am not responsible for any illegal actions performed.
+
 import sys
 import os
 from subprocess import Popen, PIPE
