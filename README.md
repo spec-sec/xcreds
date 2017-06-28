@@ -12,12 +12,12 @@ This project is for demonstration purposes ONLY. I am not responsible for any us
 
 ### Prerequisites
 
-[Intended for Kali Linux]
+[Intended for Kali Linux]  
 
-Dnsmasq
-Hostapd
-Airmon-ng Suite
-Web.py
+Dnsmasq  
+Hostapd  
+Airmon-ng Suite  
+Web.py  
 
 ### Installing
 
